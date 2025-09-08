@@ -1,2 +1,2 @@
-# 99-
+# 99 %
 Reap tax benefits like the rich
