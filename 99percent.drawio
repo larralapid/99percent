@@ -1,86 +1,58 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.2.0">
   <diagram name="Page-1" id="mrlh-7esN9r-Qak52m-t">
-    <mxGraphModel dx="871" dy="560" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="826" dy="560" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="3" value="AI powered analysis" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;strokeColor=#3700CC;fontColor=#ffffff;shadow=0;fontFamily=Anonymous Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAnonymous%2BPro;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="280" y="120" width="180" height="50" as="geometry" />
+        <mxCell id="4" value="Conduct research" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;fontFamily=Anonymous Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAnonymous%2BPro;fontSize=10;direction=south;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="410" y="85" width="210" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4" value="AI makes observations &amp;amp; inferences" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;strokeColor=#3700CC;fontColor=#ffffff;shadow=0;fontFamily=Anonymous Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAnonymous%2BPro;fontSize=10;direction=south;" parent="1" vertex="1">
-          <mxGeometry x="640" y="40" width="50" height="210" as="geometry" />
-        </mxCell>
-        <mxCell id="e3-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;fillColor=#6a00ff;strokeColor=#3700CC;shadow=0;fontFamily=Anonymous Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAnonymous%2BPro;fontSize=10;" parent="1" source="3" target="4" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="5" value="Identify attributes (AI)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;strokeColor=#3700CC;fontColor=#ffffff;shadow=0;fontFamily=Anonymous Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAnonymous%2BPro;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="560" y="200" width="170" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="e4-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;fillColor=#6a00ff;strokeColor=#3700CC;shadow=0;fontFamily=Anonymous Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAnonymous%2BPro;fontSize=10;" parent="1" source="4" target="5" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="6" value="Clothing tags" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;strokeColor=#3700CC;fontColor=#ffffff;shadow=0;fontFamily=Anonymous Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAnonymous%2BPro;fontSize=10;" parent="1" vertex="1">
+        <mxCell id="6" value="Clothing tags" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;fontFamily=Anonymous Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAnonymous%2BPro;fontSize=10;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="800" y="110" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="e5-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;fillColor=#6a00ff;strokeColor=#3700CC;shadow=0;fontFamily=Anonymous Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAnonymous%2BPro;fontSize=10;" parent="1" source="5" target="6" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="7" value="Care info" style="ellipse;whiteSpace=wrap;html=1;fillColor=#6a00ff;strokeColor=#3700CC;fontColor=#ffffff;shadow=0;fontFamily=Anonymous Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAnonymous%2BPro;fontSize=10;" parent="1" vertex="1">
+        <mxCell id="7" value="Care info" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Anonymous Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAnonymous%2BPro;fontSize=10;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="950" y="60" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="8" value="Composition" style="ellipse;whiteSpace=wrap;html=1;fillColor=#6a00ff;strokeColor=#3700CC;fontColor=#ffffff;shadow=0;fontFamily=Anonymous Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAnonymous%2BPro;fontSize=10;" parent="1" vertex="1">
+        <mxCell id="8" value="Composition" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Anonymous Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAnonymous%2BPro;fontSize=10;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="950" y="100" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="9" value="Size" style="ellipse;whiteSpace=wrap;html=1;fillColor=#6a00ff;strokeColor=#3700CC;fontColor=#ffffff;shadow=0;fontFamily=Anonymous Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAnonymous%2BPro;fontSize=10;" parent="1" vertex="1">
+        <mxCell id="9" value="Size" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Anonymous Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAnonymous%2BPro;fontSize=10;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="950" y="140" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="e6-7" style="edgeStyle=elbowEdgeStyle;endArrow=block;html=1;fillColor=#6a00ff;strokeColor=#3700CC;shadow=0;fontFamily=Anonymous Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAnonymous%2BPro;fontSize=10;" parent="1" source="6" target="7" edge="1">
+        <mxCell id="e6-7" style="edgeStyle=elbowEdgeStyle;endArrow=block;html=1;shadow=0;fontFamily=Anonymous Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAnonymous%2BPro;fontSize=10;labelBackgroundColor=none;fontColor=default;" parent="1" source="6" target="7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e6-8" style="edgeStyle=elbowEdgeStyle;endArrow=block;html=1;fillColor=#6a00ff;strokeColor=#3700CC;shadow=0;fontFamily=Anonymous Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAnonymous%2BPro;fontSize=10;" parent="1" source="6" target="8" edge="1">
+        <mxCell id="e6-8" style="edgeStyle=elbowEdgeStyle;endArrow=block;html=1;shadow=0;fontFamily=Anonymous Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAnonymous%2BPro;fontSize=10;labelBackgroundColor=none;fontColor=default;" parent="1" source="6" target="8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e6-9" style="edgeStyle=elbowEdgeStyle;endArrow=block;html=1;fillColor=#6a00ff;strokeColor=#3700CC;shadow=0;fontFamily=Anonymous Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAnonymous%2BPro;fontSize=10;" parent="1" source="6" target="9" edge="1">
+        <mxCell id="e6-9" style="edgeStyle=elbowEdgeStyle;endArrow=block;html=1;shadow=0;fontFamily=Anonymous Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAnonymous%2BPro;fontSize=10;labelBackgroundColor=none;fontColor=default;" parent="1" source="6" target="9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="10" value="Color" style="ellipse;whiteSpace=wrap;html=1;fillColor=#6a00ff;strokeColor=#3700CC;fontColor=#ffffff;shadow=0;fontFamily=Anonymous Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAnonymous%2BPro;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="800" y="170" width="80" height="30" as="geometry" />
+        <mxCell id="tEUCMFYiQgjAi_Qpb-tJ-18" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Anonymous Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAnonymous%2BPro;fontSize=10;fontColor=default;jumpStyle=arc;exitX=1;exitY=0.5;exitDx=0;exitDy=0;labelBackgroundColor=none;" parent="1" source="tEUCMFYiQgjAi_Qpb-tJ-17" target="jdNBLQDV3vvay_QoMD-i-14" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="145" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="e5-10" style="edgeStyle=orthogonalEdgeStyle;endArrow=block;html=1;fillColor=#6a00ff;strokeColor=#3700CC;shadow=0;fontFamily=Anonymous Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAnonymous%2BPro;fontSize=10;" parent="1" source="5" target="10" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="tEUCMFYiQgjAi_Qpb-tJ-17" value="Capture photo of item" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;shadow=0;glass=0;fillStyle=auto;opacity=80;align=center;verticalAlign=middle;fontFamily=Anonymous Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAnonymous%2BPro;fontSize=10;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="40" y="75" width="140" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="11" value="Dimensions" style="ellipse;whiteSpace=wrap;html=1;fillColor=#6a00ff;strokeColor=#3700CC;fontColor=#ffffff;shadow=0;fontFamily=Anonymous Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAnonymous%2BPro;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="800" y="210" width="80" height="30" as="geometry" />
+        <mxCell id="jdNBLQDV3vvay_QoMD-i-14" value="&lt;font&gt;identify item attributes&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;fontFamily=Anonymous Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAnonymous%2BPro;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="310" y="155" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="e5-11" style="edgeStyle=orthogonalEdgeStyle;endArrow=block;html=1;fillColor=#6a00ff;strokeColor=#3700CC;shadow=0;fontFamily=Anonymous Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAnonymous%2BPro;fontSize=10;" parent="1" source="5" target="11" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="jdNBLQDV3vvay_QoMD-i-15" value="" style="group;fillColor=light-dark(#FFFFFF,#E6FFCC);fillStyle=auto;strokeColor=none;perimeterSpacing=0;resizeWidth=1;imageWidth=24;container=0;imageAspect=0;dropTarget=0;labelPadding=18;opacity=50;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="400" y="260" width="100" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="12" value="Not directly depicted attributes" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;strokeColor=#3700CC;fontColor=#ffffff;shadow=0;fontFamily=Anonymous Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAnonymous%2BPro;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="560" y="270" width="210" height="40" as="geometry" />
+        <mxCell id="10" value="Color" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Anonymous Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAnonymous%2BPro;fontSize=10;labelBackgroundColor=none;fillOpacity=100;dashed=1;dashPattern=1 2;comic=0;perimeterSpacing=0;" parent="1" vertex="1">
+          <mxGeometry x="400" y="356" width="100" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="e5-12" style="edgeStyle=orthogonalEdgeStyle;endArrow=block;html=1;fillColor=#6a00ff;strokeColor=#3700CC;shadow=0;fontFamily=Anonymous Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAnonymous%2BPro;fontSize=10;" parent="1" source="5" target="12" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="11" value="Dimensions" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Anonymous Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAnonymous%2BPro;fontSize=10;labelBackgroundColor=none;fillOpacity=100;dashed=1;dashPattern=1 2;comic=0;perimeterSpacing=0;" parent="1" vertex="1">
+          <mxGeometry x="400" y="404" width="100" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="13" value="Theme/Style" style="ellipse;whiteSpace=wrap;html=1;fillColor=#6a00ff;strokeColor=#3700CC;fontColor=#ffffff;shadow=0;fontFamily=Anonymous Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAnonymous%2BPro;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="800" y="260" width="80" height="30" as="geometry" />
+        <mxCell id="13" value="Theme/Style" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Anonymous Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAnonymous%2BPro;fontSize=10;labelBackgroundColor=none;fillOpacity=100;dashed=1;dashPattern=1 2;comic=0;perimeterSpacing=0;" parent="1" vertex="1">
+          <mxGeometry x="400" y="308" width="100" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="e12-13" style="edgeStyle=orthogonalEdgeStyle;endArrow=block;html=1;fillColor=#6a00ff;strokeColor=#3700CC;shadow=0;fontFamily=Anonymous Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAnonymous%2BPro;fontSize=10;" parent="1" source="12" target="13" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="14" value="Condition" style="ellipse;whiteSpace=wrap;html=1;fillColor=#6a00ff;strokeColor=#3700CC;fontColor=#ffffff;shadow=0;fontFamily=Anonymous Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAnonymous%2BPro;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="800" y="300" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="e12-14" style="edgeStyle=orthogonalEdgeStyle;endArrow=block;html=1;fillColor=#6a00ff;strokeColor=#3700CC;shadow=0;fontFamily=Anonymous Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAnonymous%2BPro;fontSize=10;" parent="1" source="12" target="14" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="tEUCMFYiQgjAi_Qpb-tJ-18" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Anonymous Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAnonymous%2BPro;fontSize=10;fontColor=#ffffff;strokeColor=light-dark(#000000,#B3FF66);jumpStyle=arc;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="tEUCMFYiQgjAi_Qpb-tJ-17" target="3">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="tEUCMFYiQgjAi_Qpb-tJ-17" value="Capture photo of item" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;shadow=0;glass=0;fillStyle=auto;opacity=80;strokeColor=#3700CC;align=center;verticalAlign=middle;fontFamily=Anonymous Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAnonymous%2BPro;fontSize=10;fontColor=#ffffff;fillColor=light-dark(#6A00FF,#D9DAE8);" vertex="1" parent="1">
-          <mxGeometry x="50" y="85" width="120" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="tEUCMFYiQgjAi_Qpb-tJ-19" value="Update DB" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;fillStyle=auto;opacity=80;strokeColor=#3700CC;align=center;verticalAlign=middle;fontFamily=Anonymous Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAnonymous%2BPro;fontSize=10;fontColor=#ffffff;fillColor=light-dark(#6A00FF,#D9DAE8);" vertex="1" parent="1">
-          <mxGeometry x="200" y="220" width="120" height="60" as="geometry" />
+        <mxCell id="14" value="Condition" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Anonymous Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAnonymous%2BPro;fontSize=10;labelBackgroundColor=none;fillOpacity=100;dashed=1;dashPattern=1 2;comic=0;perimeterSpacing=0;" parent="1" vertex="1">
+          <mxGeometry x="400" y="260" width="100" height="36" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
